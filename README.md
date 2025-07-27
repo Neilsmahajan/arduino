@@ -20,8 +20,8 @@ arduino/
 ├── projects/
 │ ├── 01-blink-led/
 │ │ ├── README.md
-│ │ ├── ino/
-│ │ │ └── blink.ino
+│ │ ├── blink-led-ino/
+│ │ │ └── blink-led-ino.ino
 │ │ └── cpp/
 │ │ └── blink.cpp
 │ ├── ...
